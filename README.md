@@ -6,9 +6,16 @@ In this edition of the annual PHME Data Challenge, participants are challenged t
 For more information about the data challenge and to enroll in it, please visit the https://phm-europe.org/data-challenge web page.
 Here we will post information about the data challenge, the data and basic Jupyter notebooks.
 
-### For more information about the data challange, you can isseues in this Repository.
+### For more information about the data challenge, you can issues in this Repository.
 
 Due to the training and validation dataset size, we split the experiments into two different folders. To obtain the password to access the experiment, please register for the data challenge at https://phm-europe.org/data-challenge.
+
+### Computing Environment and Leader Board
+The participants will have the opportunity to use the online environment for Data Science hosted by Politecnico di Torino, hosted at [jupyter.polito.it](https://jupyter.polito.it). Participants in the data challenge are strongly encouraged to use this online environment, which offers **persistent storage**.
+
+The participants' code will be executed on daily basis and the results shown in the online leader board, indicating the scores of the teams.
+To have an account or request help, please email [datachallenge@phmeurope.org](mailto:datachallenge@phmeurope.org).
+
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
