@@ -16,6 +16,9 @@ The participants will have the opportunity to use the online environment for Dat
 The participants' code will be executed on daily basis and the results shown in the online leader board, indicating the scores of the teams.
 To have an account or request help, please email [datachallenge@phmeurope.org](mailto:datachallenge@phmeurope.org).
 
+**Important:**
+When you receive an account, in your home directory in [jupyter.polito.it](https://jupyter.polito.it) we will provide you the data and the example notebook that you have to complete. Follow the instructions in the Notebook to provide your solution in the correct format. 
+
 The Leader Board will be available soon.
 
 ### License
