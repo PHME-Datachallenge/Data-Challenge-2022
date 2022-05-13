@@ -1,3 +1,28 @@
-## LEADER BOARD
+## Leader Board
 
-The Leader Board will be available soon.
+In the following, the results of the automatic testing of participant code:
+
+| Participant  | Score |
+|---|---|
+| jdai | 0.6178446312713657|
+| okennedy | 0.2118679292164237|
+| giordano | 0.002734254547546021|
+| kince | 0.002734254547546021|
+| wdeng | 0.002734254547546021|
+| mgomez | 0.002734254547546021|
+| kyang | 0.002734254547546021|
+| ischmidt | 0.002734254547546021|
+| gaydemir | 0.002734254547546021|
+| sasadzadeh | 0.002734254547546021|
+| mradtke | 0.002734254547546021|
+| jlee | 0.002734254547546021|
+| jprasad | 0.002734254547546021|
+| eseog | 0.002734254547546021|
+| tverwimp | 0.002734254547546021|
+| aavci | 0.002734254547546021|
+| hchien | 0.002734254547546021|
+| aberenji | 0.002734254547546021|
+| yadhisantoso | 0.002734254547546021|
+| hji | 0.002734254547546021|
+| snarsinghani | 0.002734254547546021|
+
