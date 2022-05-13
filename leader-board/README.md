@@ -1,28 +1,30 @@
 ## Leader Board
 
-In the following, the results of the automatic testing of participant code:
+In the following, the results of the automatic testing of participant code.
 
-| Participant  | Score |
+Notice that these scores are computed on the **Training Set**. Moreover, scores below 0.005 are not reported.
+
+| Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|
-| jdai | 0.6178446312713657|
-| okennedy | 0.2118679292164237|
-| giordano | 0.002734254547546021|
-| kince | 0.002734254547546021|
-| wdeng | 0.002734254547546021|
-| mgomez | 0.002734254547546021|
-| kyang | 0.002734254547546021|
-| ischmidt | 0.002734254547546021|
-| gaydemir | 0.002734254547546021|
-| sasadzadeh | 0.002734254547546021|
-| mradtke | 0.002734254547546021|
-| jlee | 0.002734254547546021|
-| jprasad | 0.002734254547546021|
-| eseog | 0.002734254547546021|
-| tverwimp | 0.002734254547546021|
-| aavci | 0.002734254547546021|
-| hchien | 0.002734254547546021|
-| aberenji | 0.002734254547546021|
-| yadhisantoso | 0.002734254547546021|
-| hji | 0.002734254547546021|
-| snarsinghani | 0.002734254547546021|
+| jdai | 0.43 | 0.54 |  0.88 | 0.62 | 
+| okennedy | 0.24 | 0.00 |  0.39 | 0.21 | 
+| giordano | - | - |  - | - | 
+| kince | - | - |  - | - | 
+| wdeng | - | - |  - | - | 
+| mgomez | - | - |  - | - | 
+| kyang | - | - |  - | - | 
+| ischmidt | - | - |  - | - | 
+| gaydemir | - | - |  - | - | 
+| sasadzadeh | - | - |  - | - | 
+| mradtke | - | - |  - | - | 
+| jlee | - | - |  - | - | 
+| jprasad | - | - |  - | - | 
+| eseog | - | - |  - | - | 
+| tverwimp | - | - |  - | - | 
+| aavci | - | - |  - | - | 
+| hchien | - | - |  - | - | 
+| aberenji | - | - |  - | - | 
+| yadhisantoso | - | - |  - | - | 
+| hji | - | - |  - | - | 
+| snarsinghani | - | - |  - | - | 
 
