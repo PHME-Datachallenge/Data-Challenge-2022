@@ -13,18 +13,17 @@ Notice that these scores are computed on the **Training Set**. Moreover, scores 
 | wdeng | - | - |  - | - | 
 | mgomez | - | - |  - | - | 
 | kyang | - | - |  - | - | 
-| ischmidt | - | - |  - | - | 
 | gaydemir | - | - |  - | - | 
+| ischmidt | - | - |  - | - | 
 | sasadzadeh | - | - |  - | - | 
 | mradtke | - | - |  - | - | 
 | jlee | - | - |  - | - | 
 | jprasad | - | - |  - | - | 
 | eseog | - | - |  - | - | 
-| tverwimp | - | - |  - | - | 
 | aavci | - | - |  - | - | 
 | hchien | - | - |  - | - | 
 | aberenji | - | - |  - | - | 
-| yadhisantoso | - | - |  - | - | 
 | hji | - | - |  - | - | 
+| yadhisantoso | - | - |  - | - | 
 | snarsinghani | - | - |  - | - | 
 
