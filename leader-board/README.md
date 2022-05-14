@@ -6,11 +6,12 @@ Notice that these scores are computed on the **Training Set**. Moreover, scores 
 
 | Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|---|---|---|
+| jtaco | 0.15 | 0.85 |  0.90 | 0.63 | 
 | jdai | 0.43 | 0.54 |  0.88 | 0.62 | 
-| okennedy | 0.24 | 0.00 |  0.39 | 0.21 | 
+| okennedy | 0.44 | 0.03 |  0.30 | 0.25 | 
 | giordano | - | - |  - | - | 
-| kince | - | - |  - | - | 
 | wdeng | - | - |  - | - | 
+| kince | - | - |  - | - | 
 | mgomez | - | - |  - | - | 
 | kyang | - | - |  - | - | 
 | gaydemir | - | - |  - | - | 
