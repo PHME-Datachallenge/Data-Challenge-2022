@@ -6,24 +6,25 @@ Notice that these scores are computed on the **Training Set**. Moreover, scores 
 
 | Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|---|---|---|
-| kyang | 0.45 | 0.09 |  0.69 | 0.41 | 
-| jlee | 0.22 | 0.24 |  0.58 | 0.34 | 
-| okennedy | 0.45 | 0.04 |  0.30 | 0.26 | 
-| tverwimp | 0.12 | 0.09 |  0.19 | 0.14 | 
+| jtaco | 0.82 | 1.00 |  0.90 | 0.91 | 
+| kyang | 0.40 | 1.00 |  1.00 | 0.80 | 
+| jlee | 0.21 | 0.90 |  0.96 | 0.69 | 
+| jdai | 0.43 | 0.54 |  0.88 | 0.62 | 
+| okennedy | 0.44 | 0.03 |  0.29 | 0.25 | 
+| tverwimp | 0.12 | 0.31 |  0.26 | 0.23 | 
+| jprasad | 0.43 | 0.00 |  0.01 | 0.15 | 
+| ttevetoglu | - | - |  - | - | 
+| tko | - | - |  - | - | 
 | giordano | - | - |  - | - | 
-| wdeng | - | - |  - | - | 
 | kince | - | - |  - | - | 
+| wdeng | - | - |  - | - | 
 | mgomez | - | - |  - | - | 
 | gaydemir | - | - |  - | - | 
 | ischmidt | - | - |  - | - | 
 | sasadzadeh | - | - |  - | - | 
-| jprasad | - | - |  - | - | 
+| mradtke | - | - |  - | - | 
 | eseog | - | - |  - | - | 
 | aavci | - | - |  - | - | 
 | yadhisantoso | - | - |  - | - | 
 | hji | - | - |  - | - | 
-| ttevetoglu | - | - |  - | - | 
 | snarsinghani | - | - |  - | - | 
-| tko | - | - |  - | - | 
-| agaffet | - | - |  - | - | 
-
