@@ -1,0 +1,28 @@
+Following the detailed description of the schema of the SPI dataset: 
+
+- PanelID: the panel identifier.
+- FigureID: the figure identifier. The combination of PanelID and FigureID is the BoardID and identifies the PCB.
+- ComponentID: the component identifier.
+- PinNumber: the number of the pin considered for the component.
+- PadID: the unique identified of the Pad that supports the pins.
+- Date: the date when the SPI operation was performed.
+- Time: the time ins seconds when the SPI operation was performed.
+- PosX(mm): the X coordinate of the pad considering starting from the bottom left cornet.
+- PosY(mm): the Y coordinate of the pad considering starting from the bottom left cornet. 
+- PadType: the type of Pad.
+- Volume(%):  Volume of the solder paste deposit (obtained from Area * Height of the solder paste deposit); 
+  the target is tending to 100%; Excessive volume can cause shorts on the pins of the components themselves or greasy soldering. 
+  Insufficient Volume can cause a lean or missing weld. 
+- Height(um): varies according to the type of stencil (foil thickness); usually the standard sheets have a thickness of 100um \ 130um \ 150um. 
+  It is important that the height of the thickness of the weld paste is as close as possible to the target (frame thickness). 
+  Excessive height can cause shorts on the pins of the components themselves or greasy welds. Insufficient height can cause a lean or missing weld.
+- Area(%):   is the% of the area occupied by the deposit of the solder paste with respect to the area of the opening on the frame. 
+  Excessive area can cause shorts on the pins of the components themselves or greasy welds. An insufficient area can cause a lean or missing weld.
+- OffsetX(%):  how much the X position of the solder paste deposit differs from the predefined position.
+- OffsetY(%):   how much the Y position of the solder paste deposit differs from the predefined position.
+- SizeX: the length in X of the solder paste deposit.
+- SizeY:  the length in Y of the solder paste deposit.
+- Volume(um3): Volume expressed in microns of the solder paste deposit.
+- Area(um2):  Area expressed in microns of the solder paste deposit.
+- Shape(um): Variation on the regular shape of the solder paste deposit.
+- Result: the result of the SPI inspection.
