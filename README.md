@@ -6,6 +6,9 @@ In this edition of the annual PHME Data Challenge, participants are challenged t
 For more information about the data challenge and to enroll in it, please visit the https://phm-europe.org/data-challenge web page.
 Here we will post information about the data challenge, the data and basic Jupyter notebooks.
 
+
+# [UPDATE!!] Competition Closed Extension: June 8, 2022, 11:59:59 GMT
+
 ### [NEW!!] A new file called "SPI-ColumnDescription.txt" is now available. It reports the meaning of each column of the SPI dataset.
 ### [NEW!!] Evaluation process and metrics are now avaiable !!
 ### [NEW!!] The updated Notebook we will use for evaluation is online as well as the leader board.
