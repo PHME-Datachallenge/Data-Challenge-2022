@@ -1,35 +1,28 @@
-## Leader Board
+## Leader Board (NEW!! Performance are now computed on the Test Set)
 
 In the following, the results of the automatic testing of participant code.
 
-Notice that these scores are computed on the **Training Set**. Moreover, scores below 0.005 are not reported.
+Notice that these scores are computed on the **Test Set**. Moreover, scores below 0.005 are not reported.
 
 | Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|---|---|---|
-| tverwimp | 1.00 | 1.00 |  0.98 | 0.99 | 
-| hji | 0.85 | 1.00 |  1.00 | 0.95 | 
-| kyang | 0.43 | 1.00 |  1.00 | 0.81 | 
-| jdai | 0.43 | 0.95 |  0.99 | 0.79 | 
-| jlee | 0.46 | 0.90 |  0.96 | 0.77 | 
-| jtaco | 0.43 | 0.90 |  0.95 | 0.76 | 
-| okennedy | 0.44 | 0.75 |  1.00 | 0.73 | 
-| aberenji | 0.85 | 0.41 |  0.86 | 0.71 | 
-| jprasad | 0.43 | 0.87 |  0.77 | 0.69 | 
-| ischmidt | 0.39 | 0.82 |  0.85 | 0.68 | 
-| agaffet | 0.43 | 0.77 |  0.79 | 0.66 | 
-| yadhisantoso | 0.07 | 0.47 |  1.00 | 0.51 | 
-| tko | 1.00 | 0.00 |  0.01 | 0.34 | 
-| aavci | 0.01 | 0.00 |  0.01 | 0.01 | 
+| ischmidt | 0.41 | 0.38 |  0.70 | 0.50 | 
+| jtaco | 0.44 | 0.28 |  0.75 | 0.49 | 
+| hji | 0.39 | 0.17 |  0.70 | 0.42 | 
+| okennedy | 0.45 | 0.15 |  0.61 | 0.40 | 
+| kyang | 0.45 | 0.09 |  0.62 | 0.39 | 
+| jlee | 0.21 | 0.24 |  0.58 | 0.34 | 
+| agaffet | 0.06 | 0.19 |  0.58 | 0.28 | 
+| aberenji | 0.00 | 0.17 |  0.00 | 0.06 | 
+| kince | - | - |  - | - | 
+| sasadzadeh | - | - |  - | - | 
 | ttevetoglu | - | - |  - | - | 
+| snarsinghani | - | - |  - | - | 
 | rvandinter | - | - |  - | - | 
 | pgersberg | - | - |  - | - | 
+| hchien | - | - |  - | - | 
 | npowar | - | - |  - | - | 
 | nhalder | - | - |  - | - | 
 | jkang | - | - |  - | - | 
 | djy | - | - |  - | - | 
-| hchien | - | - |  - | - | 
-| giordano | - | - |  - | - | 
-| kince | - | - |  - | - | 
-| sasadzadeh | - | - |  - | - | 
-| snarsinghani | - | - |  - | - | 
 
