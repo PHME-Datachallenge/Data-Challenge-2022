@@ -6,22 +6,22 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 
 | Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|---|---|---|
-| jtaco | 0.44 | 0.29 |  0.78 | 0.50 | 
+| agaffet | 0.41 | 0.67 |  0.56 | 0.54 | 
+| jtaco | 0.43 | 0.37 |  0.78 | 0.53 | 
+| jdai | 0.44 | 0.46 |  0.66 | 0.52 | 
 | ischmidt | 0.41 | 0.38 |  0.70 | 0.50 | 
 | mradtke | 0.35 | 0.31 |  0.65 | 0.44 | 
-| okennedy | 0.45 | 0.15 |  0.61 | 0.40 | 
-| djy | 0.33 | 0.17 |  0.57 | 0.36 | 
-| jlee | 0.21 | 0.24 |  0.58 | 0.34 | 
+| kyang | 0.45 | 0.11 |  0.63 | 0.40 | 
+| hchien | 0.40 | 0.12 |  0.64 | 0.39 | 
+| djy | 0.33 | 0.13 |  0.62 | 0.36 | 
 | mgomez | 0.00 | 0.29 |  0.70 | 0.33 | 
-| kyang | 0.18 | 0.18 |  0.63 | 0.33 | 
-| yadhisantoso | 0.00 | 0.47 |  0.43 | 0.30 | 
-| hchien | 0.39 | 0.17 |  0.00 | 0.19 | 
-| tko | 0.29 | 0.16 |  0.00 | 0.15 | 
+| tko | 0.11 | 0.07 |  0.60 | 0.26 | 
+| yadhisantoso | 0.00 | 0.04 |  0.43 | 0.16 | 
 | aberenji | 0.00 | 0.17 |  0.00 | 0.06 | 
 | kince | - | - |  - | - | 
 | sasadzadeh | - | - |  - | - | 
-| ttevetoglu | - | - |  - | - | 
 | snarsinghani | - | - |  - | - | 
+| ttevetoglu | - | - |  - | - | 
 | rvandinter | - | - |  - | - | 
 | pgersberg | - | - |  - | - | 
 | npowar | - | - |  - | - | 
