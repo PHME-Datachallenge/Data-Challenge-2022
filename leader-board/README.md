@@ -18,6 +18,7 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | mradtke | 0.35 | 0.31 |  0.65 | 0.44 | 
 | dchi | 0.39 | 0.22 |  0.70 | 0.43 | 
 | tko | 0.42 | 0.21 |  0.66 | 0.43 | 
+<<<<<<< HEAD
 | dkim | 0.39 | 0.17 |  0.70 | 0.42 | 
 | mmalzer | 0.40 | 0.15 |  0.70 | 0.41 | 
 | jcong | 0.00 | 0.51 |  0.68 | 0.40 | 
@@ -30,6 +31,14 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | aavci | 0.03 | 0.07 |  0.11 | 0.07 | 
 | kince | - | - |  - | - | 
 | sasadzadeh | - | - |  - | - | 
+=======
+| hji | 0.39 | 0.15 |  0.70 | 0.41 | 
+| dkim | 0.39 | 0.15 |  0.70 | 0.41 | 
+| jcong | 0.00 | 0.47 |  0.65 | 0.37 | 
+| yadhisantoso | 0.00 | 0.44 |  0.63 | 0.36 | 
+| alange | 0.00 | 0.32 |  0.00 | 0.11 | 
+| kince | - | - |  - | - | 
+>>>>>>> 352779eb561e8c5d8ac694e32246df9ac99cc8d9
 | snarsinghani | - | - |  - | - | 
 | ttevetoglu | - | - |  - | - | 
 | rvandinter | - | - |  - | - | 
@@ -37,4 +46,9 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | npowar | - | - |  - | - | 
 | nhalder | - | - |  - | - | 
 | jkang | - | - |  - | - | 
+<<<<<<< HEAD
 
+=======
+| sasadzadeh | - | - |  - | - | 
+| dchi | - | - |  - | - | 
+>>>>>>> 352779eb561e8c5d8ac694e32246df9ac99cc8d9
