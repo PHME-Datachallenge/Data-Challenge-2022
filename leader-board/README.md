@@ -6,15 +6,6 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 
 | Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|---|---|---|
-| tverwimp | 1.00 | 1.00 |  1.00 | 1.00 | 
-| gaydemir | 1.00 | 0.76 |  1.00 | 0.92 | 
-| jdai | 0.43 | 0.72 |  0.99 | 0.71 | 
-| mradtke | 0.48 | 0.80 |  0.83 | 0.70 | 
-| ischmidt | 0.39 | 0.74 |  0.85 | 0.66 | 
-| kyang | 0.43 | 0.78 |  0.73 | 0.65 | 
-| mgomez | 0.38 | 0.64 |  0.89 | 0.64 | 
-| aavci | 0.03 | 0.87 |  0.99 | 0.63 | 
-| jprasad | 0.43 | 0.89 |  0.54 | 0.62 | 
 | agaffet | 0.41 | 0.67 |  0.77 | 0.62 | 
 | jtaco | 0.44 | 0.48 |  0.78 | 0.57 | 
 | jdai | 0.44 | 0.53 |  0.71 | 0.56 | 
@@ -31,9 +22,6 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | jcong | 0.00 | 0.47 |  0.65 | 0.37 | 
 | yadhisantoso | 0.00 | 0.44 |  0.63 | 0.36 | 
 | alange | 0.00 | 0.32 |  0.00 | 0.11 | 
-| aberenji | 0.00 | 0.17 |  0.00 | 0.06 | 
-| kince | - | - |  - | - | 
-| sasadzadeh | - | - |  - | - | 
 | kince | - | - |  - | - | 
 | snarsinghani | - | - |  - | - | 
 | ttevetoglu | - | - |  - | - | 
@@ -44,4 +32,3 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | jkang | - | - |  - | - | 
 | sasadzadeh | - | - |  - | - | 
 | dchi | - | - |  - | - | 
-
