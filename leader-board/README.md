@@ -21,13 +21,13 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | tko | 0.42 | 0.21 |  0.66 | 0.43 | 
 | dkim | 0.39 | 0.17 |  0.70 | 0.42 | 
 | jcong | 0.00 | 0.54 |  0.71 | 0.42 | 
-| kince | 0.00 | 0.22 |  0.64 | 0.42 | 
 | yzhu | 0.00 | 0.53 |  0.71 | 0.41 | 
 | aberenji | 0.35 | 0.17 |  0.67 | 0.40 | 
 | hji | 0.39 | 0.09 |  0.70 | 0.39 | 
 | yadhisantoso | 0.00 | 0.50 |  0.65 | 0.38 | 
 | tverwimp | 0.26 | 0.21 |  0.53 | 0.34 | 
 | alange | 0.00 | 0.32 |  0.55 | 0.29 | 
+| kince | 0.00 | 0.22 |  0.64 | 0.28 | 
 | aavci | 0.03 | 0.07 |  0.11 | 0.07 | 
 | sasadzadeh | - | - |  - | - | 
 | snarsinghani | - | - |  - | - | 
