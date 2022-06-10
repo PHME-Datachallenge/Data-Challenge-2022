@@ -16,6 +16,7 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | djy | 0.45 | 0.22 |  0.67 | 0.44 | 
 | kyang | 0.45 | 0.21 |  0.67 | 0.44 | 
 | mradtke | 0.35 | 0.31 |  0.65 | 0.44 | 
+| kince | 0.45 | 0.22 |  0.64 | 0.44 | 
 | dchi | 0.39 | 0.22 |  0.70 | 0.43 | 
 | mmalzer | 0.40 | 0.27 |  0.63 | 0.43 | 
 | tko | 0.42 | 0.21 |  0.66 | 0.43 | 
@@ -27,7 +28,6 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | yadhisantoso | 0.00 | 0.50 |  0.65 | 0.38 | 
 | tverwimp | 0.26 | 0.21 |  0.53 | 0.34 | 
 | alange | 0.00 | 0.32 |  0.55 | 0.29 | 
-| kince | 0.00 | 0.22 |  0.64 | 0.28 | 
 | aavci | 0.03 | 0.07 |  0.11 | 0.07 | 
 | sasadzadeh | - | - |  - | - | 
 | snarsinghani | - | - |  - | - | 
