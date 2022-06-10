@@ -6,7 +6,6 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 
 | Participant  | Task 1 | Task 2 | Task 3 | Score |
 |---|---|---|---|---|
-| kince | 1.00 | 0.22 |  0.64 | 0.62 | 
 | agaffet | 0.41 | 0.67 |  0.77 | 0.62 | 
 | jtaco | 0.44 | 0.48 |  0.78 | 0.57 | 
 | jdai | 0.44 | 0.54 |  0.71 | 0.56 | 
@@ -22,6 +21,7 @@ Notice that these scores are computed on the **Test Set**. Moreover, scores belo
 | tko | 0.42 | 0.21 |  0.66 | 0.43 | 
 | dkim | 0.39 | 0.17 |  0.70 | 0.42 | 
 | jcong | 0.00 | 0.54 |  0.71 | 0.42 | 
+| kince | 0.00 | 0.22 |  0.64 | 0.42 | 
 | yzhu | 0.00 | 0.53 |  0.71 | 0.41 | 
 | aberenji | 0.35 | 0.17 |  0.67 | 0.40 | 
 | hji | 0.39 | 0.09 |  0.70 | 0.39 | 
