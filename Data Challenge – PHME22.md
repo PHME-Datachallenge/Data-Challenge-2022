@@ -18,7 +18,7 @@ In detail, during the production line, the PCB goes through the following steps:
 **4\. Reflow oven**: reflows the solder paste in a molten state to create permanent solder joints.  
 **5\. Automatic Optical Inspection (AOI)**: automatically inspects the PCB to detect defects in the previous steps, e.g., missing components, fillet size or shape of fillets, or misalignment of components, etc.
 
-![](Data Challenge – PHME22_files/DC_Figure_1.png)
+![](./img/DC_Figure_1.png)
 
 Figure 1: PCB Production line.
 
@@ -106,13 +106,13 @@ The production line under consideration represents a typical automated industria
 
 As shown schematically in Figure 1, the production line is responsible for manufacturing printed circuit boards (PCBs). The production line starts the printing machine, which receives the **_panels_** consisting of multiple **_figures_**. Each _figure_, is a PCB. All PCBs have the same characteristics, with the same components to be placed. Figure 2 shows an example of a _panel_ with 4 _figures_.
 
-![](./Data Challenge – PHME22_files/DC_Figure_2.png)
+![](./img/DC_Figure_2.png)
 
 Figure 2: Panel gave in the input of the production line containing 4 figures (a figure is a PCB).
 
 Each figure is a single PCB with its electric schema, electronic connections, and component placement indication. Each component is identified by a ComponentID and must be placed in the PCB location identified by the ComponentID. Figure 3 shows a PCB example with the ComponentIDs and the pins used for soldering (goal dots), e.g., R30, a resistor with 2 pins, or IC1, an integrated circuit with 14 pins, etc.
 
-![](./Data Challenge – PHME22_files/DC_Figure_3.png)
+![](./img/DC_Figure_3.png)
 
 Figure 3: PCB example.
 
