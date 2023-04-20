@@ -18,7 +18,7 @@ In detail, during the production line, the PCB goes through the following steps:
 **4\. Reflow oven**: reflows the solder paste in a molten state to create permanent solder joints.  
 **5\. Automatic Optical Inspection (AOI)**: automatically inspects the PCB to detect defects in the previous steps, e.g., missing components, fillet size or shape of fillets, or misalignment of components, etc.
 
-![](./Data Challenge – PHME22_files/DC_Figure_1.png)
+![](Data Challenge – PHME22_files/DC_Figure_1.png)
 
 Figure 1: PCB Production line.
 
@@ -177,42 +177,3 @@ The objectives of this data challenge are to develop models able to hierarchical
 2.  _Predict the Human Inspection_: To accelerate the identification of true defects, teams have to develop models capable of predicting human-made visual inspection labels (i.e., **OperatorLabel**). For this, teams can use all the features available in the SPI dataset as well as the output label of the AOI (i.e., the **AOILabel** feature).
 3.  _Predict the Human Repair_: to avoid wasting time on PCBs that cannot be repaired or do not need to be repaired, teams must develop models capable of predicting the human-assigned repair label (**RepairLabel**). To do this, teams can use all of the features available in the SPI dataset as well as the output label of the AOI (i.e., the AOILabel feature). Specifically, the team must predict whether the PCBs is **NotPossibleToRepair**, or **FalseScrap**.
 
-Secretary PHME22
-
-For any request, please contact:
-
-   +33 (0)2 47 27 33 30
-
-   **secretary\[at\]phmeurope.org**
-
-Key dates
-
-Abstracts submission extended deadline: **February 14th, 2022  
-**Paper and poster submissions due: **April 3rd, 2022  
-**Doctoral Symposium submission deadline: **April 15th, 2022**  
-Paper review feedback: **May 2nd, 2022**  
-Final paper or poster due: **May 16th, 2022  
-**Final camera-ready papers due: **June 20th, 2022  
-**
-
-Partners
-
-jQuery(document).ready(function() { jQuery(".smooth\_slider\_fouc .smooth\_slider").show(); });jQuery(document).ready(function() { jQuery("#smooth\_slider\_1").smooth({ fx: "fade", speed:"500", timeout: 2000,pause: 1 ,slideExpr: "div.smooth\_slideri" }); jQuery("#smooth\_slider\_1").touchwipe({ wipeLeft: function() { jQuery("#smooth\_slider\_1").smooth("next"); }, wipeRight: function() { jQuery("#smooth\_slider\_1").smooth("prev"); }, preventDefaultEvents: false });jQuery("#smooth\_slider\_1").smoothSlider({ sliderWidth :450, sliderHeight :100, navArr :0, img\_align :"none" });});
-
-[![](./Data Challenge – PHME22_files/phm-society-logo.jpg)](https://phmsociety.org/ "phm-society-logo")
-
-[![](./Data Challenge – PHME22_files/stratio.png)](https://phm-europe.org/phme22-technology-demo-summary-2/stratio "stratio")
-
-[![](./Data Challenge – PHME22_files/logo_phmtechnology.jpg)](https://phm-europe.org/phme22-technology-demo-summary-2/logo_phmtechnology "logo_phmtechnology")
-
-[![](./Data Challenge – PHME22_files/logo_bitron.jpg)](https://phm-europe.org/data-challenge/logo_bitron "logo_bitron")
-
-[![](./Data Challenge – PHME22_files/AITEM_BluLogo_TrasparentBack.png)](https://phm-europe.org/aitem_blulogo_trasparentback "aitem_blulogo_trasparentback")
-
-jQuery("html").addClass("smooth\_slider\_fouc");jQuery(".smooth\_slider\_fouc .smooth\_slider").hide();
-
-Powered by [**VERT COM agency**](https://www.agence-vert.com/)
-
-[](https://www.linkedin.com/company/phm-society/ "LinkedIn")[](https://twitter.com/phmsociety?lang=en "Twitter")[](https://phm-europe.org/data-challenge#blank "YouTube")
-
- /\* <!\[CDATA\[ \*/ var wppopups\_vars = {"is\_admin":"","ajax\_url":"https:\\/\\/phm-europe.org\\/wp-admin\\/admin-ajax.php","pid":"945","is\_front\_page":"","is\_blog\_page":"","is\_category":"","site\_url":"https:\\/\\/phm-europe.org","is\_archive":"","is\_search":"","is\_singular":"1","is\_preview":"","facebook":"","twitter":"","val\_required":"This field is required.","val\_url":"Please enter a valid URL.","val\_email":"Please enter a valid email address.","val\_number":"Please enter a valid number.","val\_checklimit":"You have exceeded the number of allowed selections: {#}.","val\_limit\_characters":"{count} of {limit} max characters.","val\_limit\_words":"{count} of {limit} max words."}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/phm-europe.org\\/wp-json\\/","namespace":"contact-form-7\\/v1"}}; /\* \]\]> \*/ jQuery(function(){lightbox\_init({social\_tools: "",overlay\_gallery: false});sidebar\_slide\_init();page\_out\_init();om\_local\_scroll\_init();});
