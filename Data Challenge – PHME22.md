@@ -3,7 +3,7 @@ Data Challenge
 
 ### _Sponsored by:_
 
-[![](./Data Challenge – PHME22_files/logo_bitron-1024x191.jpg)](http://www.bitron.net/)
+![](./img/logo_bitron-1024x191.jpg)
 
 Introduction
 ------------
